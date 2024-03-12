@@ -30,7 +30,6 @@ D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\Tod
 D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\bin\Debug\net7.0\MySqlConnector.dll
 D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\obj\Debug\net7.0\TodoApi.csproj.AssemblyReference.cache
-D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CopyComplete
 D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\bin\Debug\net7.0\Azure.Core.dll
 D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\bin\Debug\net7.0\Azure.Identity.dll
 D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -76,3 +75,5 @@ D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\Tod
 D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
 D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\obj\Debug\net7.0\TodoApi.sourcelink.json
+D:\the user\Documents\הנדסאים\שנה ב\פרקטיקוד\Four_Project\TodoApi\obj\Debug\net7.0\TodoApi.csproj.Up2Date
