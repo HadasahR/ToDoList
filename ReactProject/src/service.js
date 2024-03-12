@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiUrl = process.env.VARIABLE_NAME
+const apiUrl = process.env.REACT_APP_API
 axios.defaults.baseURL="${apiUrl}Items/";
 axios.interceptors.response.use(
   (response)=>response,
